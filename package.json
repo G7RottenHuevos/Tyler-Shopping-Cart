@@ -10,7 +10,7 @@
     "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "axios":"^0.19.2",
     "mysql": "2.18.1"
   },
